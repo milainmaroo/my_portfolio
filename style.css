@@ -281,6 +281,10 @@ section {
   border-radius: 2rem;
 }
 
+.text-container {
+  text-align: justify;
+}
+
 .arrow {
   position: absolute;
   right: -5rem;
