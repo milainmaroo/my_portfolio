@@ -334,6 +334,10 @@ section {
   justify-content: space-around;
 }
 
+.project-img {
+  max-height: 38vh;
+}
+
 article {
   width: 10rem;
 }
