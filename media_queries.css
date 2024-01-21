@@ -44,6 +44,10 @@
   .btn {
     margin-bottom: 12px;
   }
+  #projects .about-containers {
+    display: grid;
+    grid-template-rows: 1fr;
+  }
 }
 
 @media screen and (max-width: 600px) {
